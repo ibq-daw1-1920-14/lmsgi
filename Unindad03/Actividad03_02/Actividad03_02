@@ -8,7 +8,7 @@
         <bebida tamaño="0.5" />
         agua
 
-        <com:menu precio="25" tarjeta="si" />
+    <com:menu precio="25" tarjeta="si" />
         <com:comida />
         <com:primero>entremeses</com:primero><opcion tipo="ibericos" />
         <com:segundo>chuleton</com:segundo><opcion tipo="ternera" />
